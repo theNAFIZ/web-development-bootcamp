@@ -8,8 +8,12 @@ Course Link: <https://www.udemy.com/course/the-complete-web-development-bootcamp
 
 ---
 
-1. ### **Project 1: Birthday Invite**
+### **Project 1: Birthday Invite**
 
 This Project is built with only HTML. It is a single page contains h1, h2, h3, a, img, ul and li tags inside.
+
+### **Project 2: Movie List**
+
+This Project is built with only HTML. It is a single page contains h1, h2, p tags inside.
 
 ---
