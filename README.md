@@ -6,6 +6,15 @@ Course Link: <https://www.udemy.com/course/the-complete-web-development-bootcamp
 
 ---
 
+## ***Capstone Projects List***
+
+### **Capstone Project 1: Online Resume**
+
+This is the first capstone project of the tutorial. This comes at the end of basic HTML lessons.
+In this project, personal and professional info are added just like in a resume. This site is designed with only html, so the design is not good. It's a pretty basic HTML only project.
+
+---
+
 ## ***Projects List***
 
 ---
