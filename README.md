@@ -36,3 +36,9 @@ This Project is built with only HTML. It is a single page site contains h1, h2, 
 This Project is built with only HTML. It is a multi page site that contains homepage, about page, contact page and two project pages in it.
 
 ---
+
+### **Project 4: Color Vocabulary**
+
+This Project is built with HTML and CSS. In this project, we have created a simple color vocabulary just like an wordbook with colors name and the color. Tthe color boxes are created with CSS.
+
+---
