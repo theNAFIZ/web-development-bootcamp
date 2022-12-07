@@ -1,0 +1,44 @@
+* {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#heading {
+    text-align: center;
+    font-weight: bold;
+}
+
+.color-title {
+    margin: auto;
+}
+
+.box {
+    height: 200px;
+    width: 200px;
+}
+
+.violet {
+    background-color: violet;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.skyblue {
+    background-color: skyblue;
+}
+
+.green {
+    background-color: green;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.red {
+    background-color: red;
+}
