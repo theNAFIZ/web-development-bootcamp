@@ -42,3 +42,9 @@ This Project is built with only HTML. It is a multi page site that contains home
 This Project is built with HTML and CSS. In this project, we have created a simple color vocabulary just like an wordbook with colors name and the color. Tthe color boxes are created with CSS.
 
 ---
+
+### **Project 5: Motivation Post**
+
+This Project is built with HTML and CSS. In this project, we have created a motivational post like brainyquotes. CSS properties like font-size, font-family, padding, margin, border, text-transform are used.
+
+---
