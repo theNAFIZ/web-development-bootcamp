@@ -48,3 +48,9 @@ This Project is built with HTML and CSS. In this project, we have created a simp
 This Project is built with HTML and CSS. In this project, we have created a motivational post like brainyquotes. CSS properties like font-size, font-family, padding, margin, border, text-transform are used.
 
 ---
+
+### **Project 6: Laos**
+
+This Project is built with HTML and CSS. In this project, we have created the flag of Laos. CSS positioning and selectors are used here. It's a good example to know about CSS box model and positioning.
+
+---
