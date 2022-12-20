@@ -49,8 +49,14 @@ This Project is built with HTML and CSS. In this project, we have created a moti
 
 ---
 
-### **Project 6: Laos**
+### **Project 6: Laos flag**
 
 This Project is built with HTML and CSS. In this project, we have created the flag of Laos. CSS positioning and selectors are used here. It's a good example to know about CSS box model and positioning.
+
+---
+
+### **Project 7: Web Design Agency Website**
+
+This Project is built with HTML and CSS. In this project, we have created the homepage for an imaginary web design agency. CSS display and media query are used here for mobile responsiveness.
 
 ---
