@@ -60,3 +60,9 @@ This Project is built with HTML and CSS. In this project, we have created the fl
 This Project is built with HTML and CSS. In this project, we have created the homepage for an imaginary web design agency. CSS display and media query are used here for mobile responsiveness.
 
 ---
+
+### **Project 8: Pricing Table**
+
+This Project is built with HTML and CSS. In this project, we have created a pricing table for a hosting company using flexbox. CSS flexbox and media query properties are used.
+
+---
