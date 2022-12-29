@@ -66,3 +66,9 @@ This Project is built with HTML and CSS. In this project, we have created the ho
 This Project is built with HTML and CSS. In this project, we have created a pricing table for a hosting company using flexbox. CSS flexbox and media query properties are used.
 
 ---
+
+### **Project 9: Mondrian Painting**
+
+This Project is built with HTML and CSS. In this project, we have recreated the great painting by Mondrian using CSS grids. CSS grid properties are used in this module.
+
+---
