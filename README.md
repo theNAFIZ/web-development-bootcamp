@@ -72,3 +72,9 @@ This Project is built with HTML and CSS. In this project, we have created a pric
 This Project is built with HTML and CSS. In this project, we have recreated the great painting by Mondrian using CSS grids. CSS grid properties are used in this module.
 
 ---
+
+### **Project 10: Tindog Landing page**
+
+This Project is built with HTML and CSS. In this project, we have created a landing page for a website called tindog [tinder for dogs] using Bootstrap components. It uses some bootstrap components like hero, feature, pricing and footer.
+
+---
