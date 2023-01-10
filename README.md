@@ -2,16 +2,26 @@
 
 In this repository, There is all the projects I've done during completition of the course on Udemy.
 
-Course Link: <https://www.udemy.com/course/the-complete-web-development-bootcamp/>
+Course Link: [The Complete Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
 ---
 
 ## ***Capstone Projects List***
 
+---
+
 ### **Capstone Project 1: Online Resume**
 
 This is the first capstone project of the tutorial. This comes at the end of basic HTML lessons.
-In this project, personal and professional info are added just like in a resume. This site is designed with only html, so the design is not good. It's a pretty basic HTML only project.
+In this project, basic level info are added. This site is designed with only html, so the design is not good. It's a pretty basic HTML only project.
+
+---
+
+### **Capstone Project 2: Personal Website**
+
+In this project, I've developed my personal website with HTML and CSS. Personal and professional information are added as well as my current resume in this website. The website is deployed and cuurently available in this [link](https://thenafiz.github.io).
+
+---
 
 ---
 
