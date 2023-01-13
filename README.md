@@ -23,6 +23,12 @@ In this project, I've developed my personal website with HTML and CSS. Personal 
 
 ---
 
+### **Capstone Project 3: Dice Game**
+
+This is a small vanilla JS Project. In this project, we've developed a dice compare game that works like a coin toss. In every refresh, the two dices roll and the player with higher number in dice wins. The functionality is been done using DOM manipulation with javascript.
+
+---
+
 ---
 
 ## ***Projects List***
