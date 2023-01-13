@@ -20,4 +20,3 @@ h1.textContent = head;
 
 img1.setAttribute("src", src1);
 img2.setAttribute("src", src2);
-
