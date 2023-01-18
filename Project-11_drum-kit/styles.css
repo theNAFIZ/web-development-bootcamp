@@ -84,3 +84,7 @@ footer {
   margin: 10px;
   background-color: white;
 }
+
+.pressed {
+  background-color: #000;
+}
