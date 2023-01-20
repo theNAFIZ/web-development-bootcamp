@@ -94,3 +94,9 @@ This Project is built with HTML and CSS. In this project, we have recreated the 
 This Project is built with HTML and CSS. In this project, we have created a landing page for a website called tindog [tinder for dogs] using Bootstrap components. It uses some bootstrap components like hero, feature, pricing and footer.
 
 ---
+
+### **Project 11: Drum Kit**
+
+This Project is built with HTML, CSS and Javascript. In this project, we have created a drum kit that can pbe played using button click or keyboard keypress. It uses vanilla JS (DOM) for internal functionality.
+
+---
