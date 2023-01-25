@@ -29,6 +29,12 @@ This is a small vanilla JS Project. In this project, we've developed a dice comp
 
 ---
 
+### **Capstone Project 4: Simon Game**
+
+This is a JS game project. In this project, we've developed a game similar to the simon game. This game is also used in a task in the game "Among Us". This is a memory testing game. Goal of the game is to remember the pattern of buttons (sound+color).
+
+---
+
 ---
 
 ## ***Projects List***
