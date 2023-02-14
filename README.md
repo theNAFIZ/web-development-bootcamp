@@ -103,6 +103,12 @@ This Project is built with HTML and CSS. In this project, we have created a land
 
 ### **Project 11: Drum Kit**
 
-This Project is built with HTML, CSS and Javascript. In this project, we have created a drum kit that can pbe played using button click or keyboard keypress. It uses vanilla JS (DOM) for internal functionality.
+This Project is built with HTML, CSS and Javascript. In this project, we have created a drum kit that can be played using button click or keyboard keypress. It uses vanilla JS (DOM) for internal functionality.
+
+---
+
+### **Project 12: Newsletter Signup**
+
+This is the first Node.js Project of the course. In this project, we have created a Newsletter sign-up website. Using mailchimp api, we've managed to implement it. By filling up the ofrm, the user will be subscribed to the newsletter.
 
 ---
