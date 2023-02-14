@@ -39,11 +39,18 @@ app.post("/", (req, res) => {
   };
 
   const request = https.request(url, options, (response) => {
+
+    if(response.errors.length() === 0) {
+        res.sendFile(__dirname + "/success.html");
+    } else {
+        res.sendFile(__dirname + "/failure.html");
+    }
+
     response.on("data", (data) => {
         console.log(JSON.parse(data));
     });
   });
-  request.write(jsonData);
+   request.write(jsonData);
   request.end();
 
 });
