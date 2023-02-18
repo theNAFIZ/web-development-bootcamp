@@ -7,9 +7,18 @@ app.use(bodyParser.urlencoded({extended: true}));
 app.use(express.static("public"));
 app.set('view engine', 'ejs');
 
+const date = new Date();
+const options = {
+    weekday: "long",
+    day: "numeric",
+    month: "long"
+}
+
+const day = date.toLocaleDateString("en-US", options);
+
 const items = [];
 app.get("/", (req, res) => {
-    res.render("index.ejs", {header: "Tuesday, May 13, 2023", items});
+    res.render("index.ejs", {header: day, items});
 });
 
 
