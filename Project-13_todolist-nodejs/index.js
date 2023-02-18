@@ -7,8 +7,16 @@ app.use(bodyParser.urlencoded({extended: true}));
 app.use(express.static("public"));
 app.set('view engine', 'ejs');
 
+const items = [];
 app.get("/", (req, res) => {
-    res.render("index.ejs");
+    res.render("index.ejs", {header: "Tuesday, May 13, 2023", items});
+});
+
+
+app.post("/", (req, res)=> {
+    const newItem = req.body.newItem;
+    items.push(newItem);
+    res.redirect("/");
 });
 
 app.listen(3000, ()=> {
