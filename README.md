@@ -112,3 +112,9 @@ This Project is built with HTML, CSS and Javascript. In this project, we have cr
 This is the first Node.js Project of the course. In this project, we have created a Newsletter sign-up website. Using mailchimp api, we've managed to implement it. By filling up the ofrm, the user will be subscribed to the newsletter.
 
 ---
+
+### **Project 13: Todo List Node.js**
+
+This is a basic Node.js Project. In this project, we have created a todo list website. We have used express.js as framework and ejs view engine to properly manage views. Body-parser package is used for fetching form data.
+
+---
