@@ -1,5 +1,7 @@
 <%- include("partials/header.ejs"); -%>
 <h1>Contact Us</h1>
-<input type="text" name="postBody" id="postBody">
-<button type="submit">Publish</button>
+<form action="/compose" method="post">
+    <input type="text" name="postBody" id="postBody">
+    <button type="submit">Publish</button>
+</form>
 <%- include("partials/footer.ejs"); -%>
