@@ -17,7 +17,7 @@ app.use(express.static("public"));
 
 const posts = []
 app.get("/", (req, res) => {
-  res.render("home", {startingContent: homeStartingContent});
+  res.render("home", {startingContent: homeStartingContent, posts});
 });
 
 app.get("/about", (req, res) => {
@@ -38,18 +38,8 @@ app.post("/compose", (req, res) => {
     body: req.body.postBody
   }
   posts.push(post);
-  console.log(posts);
   res.redirect("/");
 });
-
-
-
-
-
-
-
-
-
 
 
 
