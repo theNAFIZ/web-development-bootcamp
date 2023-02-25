@@ -45,11 +45,11 @@ app.post("/compose", (req, res) => {
 app.get("/posts/:postTitle", (req, res) => {
   const param = ld.kebabCase(req.params.postTitle);
   posts.forEach((post)=> {
-    const postTitle = ld.lowerCase(post.title);
-    if(param === ld.kebabCase(postTitle)) {
-      console.log("Match Found!");
+    const postTitle = ld.kebabCase(post.title);
+    if(param === postTitle) {
+      res.render("post", {post});
     } else {
-      console.log(param, ld.kebabCase(post.title));
+      console.log("No match found.");
     }
   });
 });
