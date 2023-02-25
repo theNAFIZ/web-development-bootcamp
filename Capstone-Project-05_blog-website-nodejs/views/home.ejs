@@ -3,6 +3,7 @@
 <p><%= startingContent %></p>
 <% posts.forEach( (post) => { %>
     <h2><%= post.title %></h2>
-    <p><%= post.body %></p>
+    <% const added = post.body.length > 100 ? " ..." : "" %>
+    <p><%= post.body.slice(0, 100) + added %></p>
 <% }); %>
 <%- include("partials/footer.ejs"); -%>
