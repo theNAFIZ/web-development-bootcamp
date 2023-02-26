@@ -35,6 +35,12 @@ This is a JS game project. In this project, we've developed a game similar to th
 
 ---
 
+### **Capstone Project 5: Blog Website**
+
+This is a Node.js blog project. In this project, we've developed a blog website using Node.js, express framework and ejs view engine. In this website, we have used features like dynamic routing, truncated post body on homepage, posting and viewing blogs. It is completed by facing 21 small challenges given by the instructor of the course.
+
+---
+
 ---
 
 ## ***Projects List***
