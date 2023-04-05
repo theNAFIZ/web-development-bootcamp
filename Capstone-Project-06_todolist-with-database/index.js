@@ -20,7 +20,6 @@ const Item = mongoose.model("Item", itemSchema);
 
 app.get("/", async (req, res) => {
     const items = await Item.find({});
-    console.log(items);
     res.render("index.ejs", {header: day, items});
 });
 
@@ -30,6 +29,11 @@ app.post("/", async (req, res)=> {
         name: newItem
     });
     await task.save();
+    res.redirect("/");
+});
+
+app.post("/delete", async (req, res) => {
+    await Item.findByIdAndDelete(req.body.id);
     res.redirect("/");
 });
 
