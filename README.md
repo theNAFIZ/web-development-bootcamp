@@ -41,6 +41,12 @@ This is a Node.js blog project. In this project, we've developed a blog website 
 
 ---
 
+### **Capstone Project 6: Todo List with Database**
+
+This is a Node.js Project with mongodb database. In this project, we have created a todo list website. We have used express.js as framework and ejs view engine to properly manage views. Body-parser package is used for fetching form data. Mongoose package is used as ORM for managing mongodb database.
+
+---
+
 ---
 
 ## ***Projects List***
